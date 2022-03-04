@@ -116,33 +116,26 @@ const LeftBar = (props) => {
           </>
         ) : null}
         <div className="absolute inset-x-0 bottom-10 ">
-          <div className="flex px-6 space-x-7">
-            <a href="/">
+          <div className="flex px-10 space-x-7">
+            <a href="https://github.com/sohyuna0113">
               <img
                 src={GitLogo}
                 alt="Git Logo"
-                className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
+                className="h-12 w-12 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
-            <a href="/">
-              <img
-                src={KaggleLogo}
-                alt="Kaggle Logo"
-                className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
-              />
-            </a>
-            <a href="/">
+            <a href="https://www.linkedin.com/in/sohyunahn0113">
               <img
                 src={LinkedinLogo}
                 alt="Linkedin Logo"
-                className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
+                className="h-12 w-12 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
-            <a href="/">
+            <a href="mailto:assw99145@gmail.com?subject=subject">
               <img
                 src={MailLogo}
                 alt="Mail Logo"
-                className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
+                className="h-12 w-12 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
           </div>

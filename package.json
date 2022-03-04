@@ -1,7 +1,7 @@
 {
-  "name": "kizou",
+  "name": "sohyun",
   "version": "0.1.0",
-  "homepage": "http://kizou.org",
+  "homepage": "https://sohyuna0113.github.io/VSCode_Template",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.5",

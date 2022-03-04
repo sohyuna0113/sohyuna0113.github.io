@@ -12,13 +12,15 @@ const Contact = () => {
         <div className="table-cell border-b border-b-[#e6f1ff] border-opacity-25 w-full"></div>
       </div>
       <div className="text-[#a2aabc] text-lg mt-5 mx-60 flex flex-col items-center text-justify">
-        <code>
-          Curabitur porta fringilla ex, ut sollicitudin purus congue sed. In
-          eget purus vehicula, ornare libero quis, rutrum sapien. Etiam quis
-          urna ut neque consectetur vestibulum ut sit amet libero.
-        </code>
+      <div>
+      <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" /></svg>
+          <code>
+            +82 10-8368-7091
+          </code>
+        </div>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
-          <a href="mailto:yourmailadress@gmail.com">
+          <a href="assw99145@gmail.com">
             <code>Contact</code>
           </a>
         </button>
